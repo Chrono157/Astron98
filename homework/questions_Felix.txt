@@ -1,11 +1,24 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+ls shows you to contents of the directory you are currently in
+cd allows you to move between directories
+mkdir creates a new directory in the directory you are currently in
+clear clears the terminal window and makes it seem like you are just opening it. 
+ssh allows you to remotely access another computer for files
+mv moves or renames a file to a new location.
+My computer terminal is in powershell, but I typically use gitbash.
 
 2. Do you have pets? What kind?
+I have 1 dog and 5 koi. There's also 4 stray adult cats and 2 kittens that like to hang out in my backyard.
 
 3. If you run across an error, what would your first course of action be?
+Locate where that error is and attempt to fix it. If it is a syntax error, then the error will be easy to spot and easy to fix. If it is a runtime or logic error, then it will be harder to locate, but relatively easy to fix.
 
 4. Funniest thing that happened to you in high school.
+One of my classmates in my AP Calculus AB course stood up to sharpen his pencil. The classroom only had a manual sharpener and they stood there for like 2 minutes trying to figure out how to sharpen it. Eventually, the teacher had to help them do so.
 
 5. What is a python script? (Keep it simple)
+A python script is essentially a set of instructions that you have the computer follow, which can include performing arithmetic, writing out things, or evaluating things.
+
+Comment: Sorry for not answering these questions, it somehow never even occurred to me to open this file up to check for content.
 
 
